@@ -58,7 +58,7 @@ if st.button("Predict Sales"):
 st.markdown("---")
 st.markdown(
     """
-    🔗 **Developed by [krushna shinde](https://github.com/krushna8767)**  
-    📦 Check out the full project on [GitHub](https://github.com/krushna8767/bigmart-sales-prediction)
+    🔗 **Developed by [Roshan Ushir](https://github.com/roshanushir2806)**  
+    📦 Check out the full project on [GitHub](https://github.com/roshanushir2806/Bigmart-Sales-Prediction)
     """
 )
