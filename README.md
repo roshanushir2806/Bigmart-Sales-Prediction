@@ -4,8 +4,7 @@
 This project showcases a complete **Data Engineering + Machine Learning pipeline** using BigMart retail sales data.  
 It covers everything from **data ingestion** and **database creation** to **model training** and **deployment via Streamlit**.
 
-👉 **Live Demo:** (https://bigmart-sales-prediction-krushna.streamlit.app/)
-
+👉 **Live Demo:** (https://bigmart-sales-prediction-mcbg2wypbpeprxa9cp9jfh.streamlit.app/)
 ---
 
 ##  Project Overview
